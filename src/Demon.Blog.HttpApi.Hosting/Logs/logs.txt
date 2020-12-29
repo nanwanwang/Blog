@@ -1,0 +1,75 @@
+2020-12-29 16:43:07.881 +08:00 [INF] Starting web host.
+2020-12-29 16:43:11.293 +08:00 [INF] User profile is available. Using 'C:\Users\think\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-12-29 16:43:11.488 +08:00 [INF] Loaded ABP modules:
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationAbstractionsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Validation.AbpValidationAbstractionsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.ObjectExtending.AbpObjectExtendingModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Uow.AbpUnitOfWorkModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Data.AbpDataModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.VirtualFileSystem.AbpVirtualFileSystemModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Security.AbpSecurityModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.MultiTenancy.AbpMultiTenancyModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Settings.AbpSettingsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Timing.AbpTimingModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Json.AbpJsonModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Threading.AbpThreadingModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Auditing.AbpAuditingModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Http.AbpHttpAbstractionsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Minify.AbpMinifyModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Http.AbpHttpModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Authorization.AbpAuthorizationModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Localization.AbpLocalizationModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Validation.AbpValidationModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.ExceptionHandling.AbpExceptionHandlingModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.AspNetCore.AbpAspNetCoreModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.ApiVersioning.AbpApiVersioningAbstractionsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.EventBus.AbpEventBusModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Guids.AbpGuidsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.ObjectMapping.AbpObjectMappingModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Specifications.AbpSpecificationsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Domain.AbpDddDomainModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationContractsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Features.AbpFeaturesModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Application.AbpDddApplicationModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcContractsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.UI.AbpUiModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.GlobalFeatures.AbpGlobalFeaturesModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.AspNetCore.Mvc.AbpAspNetCoreMvcModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Castle.AbpCastleCoreModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Autofac.AbpAutofacModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainSharedModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainSharedModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Users.AbpUsersAbstractionModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainSharedModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationContractsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationContractsModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityHttpApiModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Users.AbpUsersDomainModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.AutoMapper.AbpAutoMapperModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityDomainModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Serialization.AbpSerializationModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Caching.AbpCachingModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementDomainModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.PermissionManagement.AbpPermissionManagementApplicationModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Volo.Abp.Identity.AbpIdentityApplicationModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Demon.Blog.BlogApplicationModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Demon.Blog.BlogHttpApiModule
+2020-12-29 16:43:11.488 +08:00 [INF] - Demon.Blog.Web.DemonBlogHttpApiHostingModule
+2020-12-29 16:43:12.889 +08:00 [INF] Initialized all ABP modules.
+2020-12-29 16:43:13.168 +08:00 [INF] Now listening on: https://localhost:44394
+2020-12-29 16:43:13.168 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-12-29 16:43:13.168 +08:00 [INF] Hosting environment: Development
+2020-12-29 16:43:13.168 +08:00 [INF] Content root path: D:\abpvnext\src\Demon.Blog.HttpApi.Hosting
+2020-12-29 16:43:15.058 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44394/ - -
+2020-12-29 16:43:15.144 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44394/ - - - 404 0 - 88.4125ms
+2020-12-29 16:43:16.696 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44394/ - -
+2020-12-29 16:43:16.697 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44394/ - - - 404 0 - 0.3851ms
+2020-12-29 16:43:31.493 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44394/HelloWorld - -
+2020-12-29 16:43:31.498 +08:00 [INF] Executing endpoint 'Demon.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Demon.Blog.HttpApi)'
+2020-12-29 16:43:31.657 +08:00 [INF] Route matched with {action = "HelloWorld", controller = "HelloWorld", area = ""}. Executing controller action with signature System.String HelloWorld() on controller Demon.Blog.HttpApi.Controllers.HelloWorldController (Demon.Blog.HttpApi).
+2020-12-29 16:43:31.764 +08:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2020-12-29 16:43:31.772 +08:00 [INF] Executed action Demon.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Demon.Blog.HttpApi) in 110.2248ms
+2020-12-29 16:43:31.772 +08:00 [INF] Executed endpoint 'Demon.Blog.HttpApi.Controllers.HelloWorldController.HelloWorld (Demon.Blog.HttpApi)'
+2020-12-29 16:43:31.774 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44394/HelloWorld - - - 200 - text/plain;+charset=utf-8 280.5792ms
+2020-12-29 16:43:31.983 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44394/favicon.ico - -
+2020-12-29 16:43:31.984 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44394/favicon.ico - - - 404 0 - 0.8552ms
